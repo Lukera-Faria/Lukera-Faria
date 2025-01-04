@@ -8,3 +8,4 @@ Uma peculiaridade minha é a quantidade de mudanças que já fiz. Eu sou Gaúcho
 ##  📊Estatísticas do Github:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukera-Faria&show_icons=true&theme=shadow_red&hide_border=true&bg_color=000000&icon_color=c71d48&text_color=c8c8c8&title_color=ed2255)](https://github.com/Lukera-Faria/github-readme-stats)
 
+ ## 📨Me Contate neste email: Lucascofcewicz@gmail.com
