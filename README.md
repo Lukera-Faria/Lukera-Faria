@@ -15,12 +15,3 @@ Uma peculiaridade minha é a quantidade de mudanças que já fiz. Eu sou Gaúcho
 ##  🫡Meu Buddy:
 https://github.com/FeZillo
 
-<img src="https://raw.githubusercontent.com/Lukera-faria/Lukera-faria/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Lukera-faria/count.svg?"  />
-</div>
-
-###
